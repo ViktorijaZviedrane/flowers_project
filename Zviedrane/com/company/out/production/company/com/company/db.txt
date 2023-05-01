@@ -1,0 +1,6 @@
+Flower - 2, color - 2, quantity - 2, price per one - 2$, flower height - 2cm
+Flower - 1, color - 1, quantity - 1, price per one - 1$, flower height - 1cm
+Flower - 5, color - 5, quantity - 5, price per one - 5$, flower height - 5cm
+Flower - 7, color - 7, quantity - 7, price per one - 7$, flower height - 7cm
+Flower - 2, color - 2, quantity - 2, price per one - 2$, flower height - 2cm
+Flower - 9, color - 9, quantity - 9, price per one - 9$, flower height - 9cm
